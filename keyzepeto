@@ -3,6 +3,16 @@
   "last_update": "2025-01-15",
   "keys": [
     {
+      "key": "nzy",
+      "user": "NZY VIP",
+      "expired": "2027-12-31",
+      "status": "active",
+      "hwid": "EOS-c5624125-991BC83B"
+    },
+  "version": "1.0",
+  "last_update": "2025-01-15",
+  "keys": [
+    {
       "key": "ACE",
       "user": "ACE",
       "expired": "2027-12-31",
@@ -14,7 +24,7 @@
       "user": "VIP-01",
       "expired": "2026-06-30",
       "status": "active",
-      "hwid": ""
+      "hwid": "EOS-c5624125-991BC83B"
     },
     {
       "key": "EOS-TRIAL-001",
